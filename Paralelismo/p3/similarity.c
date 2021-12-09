@@ -1,5 +1,3 @@
-//Pedro Guijas Bravo 53797370W
-//Hector Padín Torrente 79345431P
 //export OMPI_MCA_btl=self,tcp
 //export PMIX_MCA_gds=hash
 #include <stdio.h>
